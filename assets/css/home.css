@@ -1,0 +1,45 @@
+/* header */
+
+
+/*home/about page */
+
+body {
+	background-color:orange;
+}
+
+.jumbotron {
+	
+	background-image: url("http://www.randco.com/media/wysiwyg/RCo-PDP-Background-Images/CACTUS.jpg");
+	color: white;
+	text-align: center;
+	display: table;
+    width: 100%;
+    position: relative;
+    height: 500px;
+    background-size: cover;
+   
+ }   
+
+.container {
+	text-align: right
+}
+
+.img-circle {
+	height:250px;
+	width:250px;
+	margin-left: 80px;
+	margin-bottom: 20px;
+
+}
+
+.aboutMe {
+	margin-top:20px;
+}
+
+/*portfolio*/
+
+
+/*experience*/
+
+
+/*contact*/
